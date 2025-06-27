@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "open-source-odyssey",
-    "slug": "open-source-odyssey",
+    "name": "PullQuest",
+    "slug": "PullQuest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
